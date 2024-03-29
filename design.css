@@ -93,12 +93,12 @@ body{
 }
 .parent{
     display: flex;
-    width:auto;
+    width:50%;
     height:auto;
     
 }
 .child{
-    flex:1;
+    flex:2;
     margin:11px;
 }    
 .aligns{
