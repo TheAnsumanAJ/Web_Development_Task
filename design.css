@@ -26,19 +26,6 @@ body{
     display:flex;
     flex-wrap: wrap;
 }
-.parent1,.child1{
-    display: flex;
-    flex-wrap: wrap;
-}
-.parent1{
-    display: flex;
-    min-width:400px;
-    padding:3px;
-}
-.child1{
-    flex:auto;
-    margin-bottom:0px;
-}
 .items{
     border-radius: 5px;
     text-align: center;
