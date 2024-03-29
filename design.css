@@ -20,8 +20,7 @@ body{
 .container{
     padding:11px;
     border-radius: 11px;
-    min-width: 300px;
-    max-height: 500px;
+    min-width: 400px;
 }
 .container1,.container2{
     display:flex;
@@ -29,9 +28,8 @@ body{
 }
 .parent1{
     display: flex;
-    min-width:300px;
+    min-width:400px;
     padding:3px;
-    max-height:500px;
 }
 .child1{
     flex:auto;
