@@ -29,14 +29,15 @@ body{
     margin:11px;
 }
 .parent2{
-    display: flex;
+    display: inline;
     width:auto;
     height:auto;
-    
+    display: inline;
 }
 .child2{
     flex:1;
     margin:11px;
+    padding:11px;
 }
 .items{
     border-radius: 5px;
