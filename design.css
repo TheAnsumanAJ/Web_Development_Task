@@ -68,14 +68,6 @@ body{
     color:brown;
     margin:2px;
 }
-.aligned{
-    text-align:center;
-    font-size:31px;
-    font-family: 'Times New Roman';
-    font-weight:bold;
-    color:brown;
-    text-decoration: underline;
-}
 .link{
     margin:10%;
 }
