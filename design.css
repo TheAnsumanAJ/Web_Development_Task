@@ -74,7 +74,7 @@ body{
 .article{
     font-size:22px;
     color:chocolate;
-    width:50%;
+    width:auto;
 }
 .parent{
     display: flex;
