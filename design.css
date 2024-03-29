@@ -28,10 +28,8 @@ body{
 }
 .parent1{
     display: flex;
-    width:auto;
-    height:auto;
-    padding:2px;
-    margin-bottom:0px;
+    min-width:300px;
+    padding:3px;
 }
 .child1{
     flex:auto;
@@ -133,6 +131,7 @@ body{
 }
 .line{
     border-top: 5px solid red;
+    width:100%;
 }
 .con{
     text-align:center;
