@@ -100,7 +100,14 @@ body{
 .child{
     flex:2;
     margin:11px;
-}    
+}   
+table{
+    width:100%;
+}
+table .detsils{
+    width:auto;
+    margin-right:0px;
+}  
 .aligns{
     text-align:left;
     font-size:31px;
