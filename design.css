@@ -22,7 +22,7 @@ body{
     border-radius: 11px;
     min-width: 400px;
 }
-.container1{
+.container1,.container2{
     display:flex;
     flex-wrap: wrap;
 }
@@ -47,7 +47,7 @@ body{
     align-items: space-around;
     padding: 35px;
 }
-#table1,#table7{
+#table1,#table4{
     flex-basis:50%;
     flex-grow:2;
 }
