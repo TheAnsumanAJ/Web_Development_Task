@@ -24,7 +24,7 @@ body{
 .box{
     border: 2px solid green;
     padding:11px;
-    width:25em;
+    width:29em;
 }
 .article{
     width:fit-content;
