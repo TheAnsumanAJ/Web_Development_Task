@@ -95,11 +95,13 @@ body{
     display: flex;
     width:70%;
     height:auto;
+    padding:21px;
     
 }
 .child{
     flex:2;
-    margin:11px;
+    margin:21px;
+    padding:21px;
 }   
 table{
     width:100%;
