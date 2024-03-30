@@ -17,6 +17,10 @@ body{
     color:red;
     font-family: 'Times New Roman';
 }
+.logo{
+    height:61px;
+    width:61px;
+}
 .box{
     border: 2px solid green;
     padding:11px;
