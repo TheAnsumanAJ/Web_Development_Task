@@ -23,8 +23,8 @@ body{
 }
 .box{
     border: 2px solid green;
-    padding:11px;
-    width:29em;
+    padding: 11px;
+    width: 35em;
 }
 .article{
     width:fit-content;
