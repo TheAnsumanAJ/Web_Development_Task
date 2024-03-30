@@ -27,10 +27,21 @@
                 color:red;
                 font-family: 'Times New Roman';
             }
+            .box{
+                margin:30px;
+                height:100px;
+                width:100px;
+                background-color: bisque;
+                overflow-wrap: break-word;
+            }
+            .article{
+                margin:5px;
+                padding: 11px;
+            }
             .parent1{
-            display: flex;
-            width:auto;
-            height:auto;    
+                display: flex;
+                width:auto;
+                height:auto;    
             }
             .child1
             {
@@ -161,8 +172,10 @@
     <div class="parent1">
         <div class="child1">
             <h2 class="intro">About Me!</h2>
-            <p class="article">I am from Rourkela.I am from department of Computer Science and Engineering.Currently I am pursuing my Bachelor's of Technology Degree from Veer Surendra Sai University Of Technology.My aim is to become a AI developer.I am also intersted in Machine Learning.I am also pursuing Web Development.My hobbies is to explore new places and its culture.</p>
-        </div>
+            <div class="box">
+                <p class="article">I am from Rourkela.I am from department of Computer Science and Engineering.Currently I am pursuing my Bachelor's of Technology Degree from Veer Surendra Sai University Of Technology.My aim is to become a AI developer.I am also intersted in Machine Learning.I am also pursuing Web Development.My hobbies is to explore new places and its culture.</p>
+            </div>
+            </div>
         <div class="child1">
             <image class="image" src="Dp.jpg" height="301px" width="321px" alt="user image">
             <h2 class="align">Frontend Developer</h2></image>
@@ -181,7 +194,9 @@
     <div class="parent" id="contain3">
         <div class="child" id="table7">
             <h2 class="aligns">My Interests!</h2><br/>
-            <p class="article">I am interested in AI.I am seeking to become a AI developer.I am also interested in Machine Learning and robotics.I want to implement AI in robotics and in day to day usage machines.I am also intersted in travelling new places and explore it's culture.</p>
+            <div class="box">
+                <p class="article">I am interested in AI.I am seeking to become a AI developer.I am also interested in Machine Learning and robotics.I want to implement AI in robotics and in day to day usage machines.I am also intersted in travelling new places and explore it's culture.</p>
+            </div>
         </div>
         <div class="child" id="contain4">
             <h2 class="qal">Qualifications:</h2><br/>
