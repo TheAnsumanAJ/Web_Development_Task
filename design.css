@@ -17,6 +17,17 @@ body{
     color:red;
     font-family: 'Times New Roman';
 }
+.box{
+    border: 2px solid green;
+    padding:11px;
+    width:20em;
+}
+.article{
+    width:fit-content;
+    margin-bottom: 1em;
+    padding: 7px;
+    color:chocolate;
+}
 .parent1{
     display: flex;
     width:auto;
